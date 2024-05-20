@@ -1,0 +1,43 @@
+=================================================TABLEAU PROJECT========================================================
+
+
+
+1. There are basically Five Dashboard is Given to you :-
+	a) Forecast Dashboard
+	b) Growth Dashboard
+	c) Sales CockPit Dashboard
+	d) Super Sample SuperStore
+	e) Territory Dashboard
+
+
+2. So you have to choose atlest 2 Dashboards Out of 5 on you own and try to replicate that 
+with any of datasets is given to you in the LMS with these Dashboards and try to extract insights from 
+the dashboards and Write that Insights in Word Format.
+
+ 
+
+
+
+					O/R
+
+
+
+3.And if you have any other 2 Projects of Tableau that is also fine you can submit it and will review by 
+the trainers
+
+
+
+4. You can have Datasets on OData field Source by Pasting the given below link in OData you will get many Datasets in which you can practice upon
+https://services.odata.org/V4/Northwind/Northwind.svc/
+
+
+
+
+5. After Completeion of the projects you have to Create one Docx file in that you have to Make Report of above Projects and include some Key Factors like
+	1. Introduction
+	2. Methodology
+	3. Requirement Analysis
+	4. Other Parameters depending upon the Projects
+	5. All Visualization like All Charts which is there in the Dashboards
+	6. Insights from the Charts as well as Dashboards
+	7. Conclusion
